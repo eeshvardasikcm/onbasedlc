@@ -1,4 +1,4 @@
-package com.eeshvardasikcm.onbasedlc;
+package com.eeshvardasikcm.onbasedlclib.bases;
 
 /*
 * XML for the strings.xml resource file
