@@ -1,9 +1,4 @@
-package com.eeshvardasikcm.onbasedlc.diagram
-
-import androidx.compose.foundation.layout.Column
-import androidx.compose.foundation.layout.Row
-import androidx.compose.material.Text
-import androidx.compose.runtime.Composable
+package com.eeshvardasikcm.onbasedlclib.diagram
 
 /**
  * Can be drawn onto a OnBaseDLC diagram

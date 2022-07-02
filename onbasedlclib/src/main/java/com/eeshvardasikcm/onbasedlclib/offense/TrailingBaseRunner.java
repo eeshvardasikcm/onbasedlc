@@ -1,4 +1,4 @@
-package com.eeshvardasikcm.onbasedlc.offense;
+package com.eeshvardasikcm.onbasedlclib.offense;
 
 class TrailingBaseRunner extends Batter {
     @Override

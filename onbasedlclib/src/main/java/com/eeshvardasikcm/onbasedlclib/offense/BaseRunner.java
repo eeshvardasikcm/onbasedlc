@@ -1,4 +1,4 @@
-package com.eeshvardasikcm.onbasedlc.offense;
+package com.eeshvardasikcm.onbasedlclib.offense;
 
 class BaseRunner extends Batter {
 

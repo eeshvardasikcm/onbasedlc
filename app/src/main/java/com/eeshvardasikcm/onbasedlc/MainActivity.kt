@@ -9,7 +9,7 @@ import androidx.compose.material.MaterialTheme
 import androidx.compose.material.Surface
 import androidx.compose.material.Text
 import androidx.compose.ui.Modifier
-import com.eeshvardasikcm.onbasedlc.offense.OffensiveTeam
+import com.eeshvardasikcm.onbasedlclib.offense.OffensiveTeam
 import com.eeshvardasikcm.onbasedlc.ui.theme.OnBaseDLCTheme
 
 /**
@@ -33,7 +33,7 @@ class MainActivity : ComponentActivity() {
                     }
                     Row {
                         val offensiveTeamDiagram =
-                            OffensiveTeam.createOffensiveTeam(
+                            com.eeshvardasikcm.onbasedlclib.offense.OffensiveTeam.createOffensiveTeam(
                                 this@MainActivity.getString(R.string.offensive_team),
                                 this@MainActivity.getString(R.string.offensive_team_comment)
                             )
