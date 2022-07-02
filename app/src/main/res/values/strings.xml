@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OnBaseDLC</string>
+    <string name="offensive_team">Offensive Team</string>
+    <string name="offensive_team_comment">
+        Offensive Team has batters that need to get on base.
+        Batters that reach base then need to be batted in for scoring runs.
+    </string>
+</resources>
