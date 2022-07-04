@@ -8,7 +8,7 @@ import com.eeshvardasikcm.onbasedlclib.pitchcount.AtBat;
 
 class Order extends Drawable {
     private final ArraySet<Batter> spot = new ArraySet<Batter>(10);
-    private final ArraySet<AtBat> pitchesSeen = new ArraySet<AtBat>(5);
+    private final ArraySet<AtBat> pitchCount = new ArraySet<AtBat>(5);
 
     Order(final String nameToSet, final String commentToSet) {
         super(nameToSet, commentToSet);
