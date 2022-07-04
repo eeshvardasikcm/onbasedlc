@@ -5,10 +5,6 @@ import androidx.collection.ArraySet;
 
 import com.eeshvardasikcm.onbasedlclib.diagram.Drawable;
 
-//import com.eeshvardasikcm.onbasedlclib.diagram.Drawable;
-
-//import com.eeshvardasikcm.onbasedlclib.diagram.Drawable;
-
 public class OffensiveTeam extends Drawable {
     private final ArraySet<Batter> RunnersOnBase = new ArraySet<Batter>(3);
     private final ArraySet<Batter> RunnersBattedIn = new ArraySet<Batter>(4);
