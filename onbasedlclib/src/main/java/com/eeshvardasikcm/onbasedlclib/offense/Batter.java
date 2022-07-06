@@ -1,8 +1,10 @@
 package com.eeshvardasikcm.onbasedlclib.offense;
 
-abstract class Batter {
+import androidx.annotation.NonNull;
+
+public abstract class Batter {
     protected Batter() {
     }
 
-    abstract void BaseReached(Byte baseNumber);
+    protected abstract void BaseReached(@NonNull Byte baseNumber);
 }
