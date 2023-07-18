@@ -14,6 +14,6 @@ not be sufficient to conclude on acquiring an offensive outfield as the primary 
 signing new players. If we start by acquiring ground ball pitchers and good defensive infielders,
 then we can see that automatically the outfield defense is not part of the primary equation.
 
-
+![Screenshot_20230718-034951~7](https://github.com/eeshvardasikcm/onbasedlc/assets/96601374/b2d9d12c-10fc-45c0-88a8-b7a33619c702)
 
 OnBaseDLC started as a concept to become a league leading concept for advancing your baseball game franchise that will give you the advantage against your online division rivals with base rounding features enabling you to maintain a championship contender franchise OPS+
