@@ -2,7 +2,7 @@
 Chess and baseball theory combined hypothetically for the creation of a new game idea
 ________
 Explanation:
-There's a general saying that the "best offense is a good defense"
+There's a general saying that the "best offense is a good defense".
 In baseball the importance of good pitching may be expressed when we say "you can't win
 without good pitching".
 I may speculate a hypothesis that ground ball pitchers allow for a better offense. If the defense
