@@ -18,7 +18,7 @@ then we can see that automatically the outfield defense is not part of the prima
 
 - The concept of this new game is a combination of chess and baseball. If you notice the difference between balls hit into play in the infield as opposed to the outfield, you will see that there is a difference in the amount of time it takes for the ball to be fielded. A ball hit into the outfield takes more time to field than a ball hit into the infield. Also, the ball travels a greater distance when hit to the outfield.
 
-- Taking a look at the markup I made of baseball players assigned as chess pieces and positioned into the field, you can note that rooks and Queens may have more offensive power, while knights and pawns cover a smaller distance quickly as opening moves. Bishops are not in this chart. If we replace the rooks in the outfield with bishops, then we can get a different offensive and defensive dynamic.
+- Taking a look at the markup I made of baseball players assigned as chess pieces and positioned into the field, you can note that rooks and Queens may have more offensive power, while knights and pawns cover a smaller distance quickly as opening moves. Bishops could play SS because they cover ground more quickly than a 2B. If we replace the rooks in the outfield with bishops, then we can get a different offensive and defensive dynamic.
 
 - A new game could theoretically be created by continuing to make abstract connections between baseball and chess along these patterns.
 
