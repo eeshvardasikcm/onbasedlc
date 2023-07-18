@@ -16,4 +16,14 @@ then we can see that automatically the outfield defense is not part of the prima
 
 ![Screenshot_20230718-034951~7](https://github.com/eeshvardasikcm/onbasedlc/assets/96601374/b2d9d12c-10fc-45c0-88a8-b7a33619c702)
 
+- The concept of this new game is a combination of chess and baseball. If you notice the difference between balls hit into play in the infield as opposed to the outfield, you will see that there is a difference in the amount of time it takes for the ball to be fielded. A ball hit into the outfield takes more time to field than a ball hit into the infield. Also, the ball travels a greater distance when hit to the outfield.
+
+- Taking a look at the markup I made of baseball players assigned as chess pieces and positioned into the field, you can note that rooks and Queens may have more offensive power, while knights and pawns cover a smaller distance quickly as opening moves. Bishops are not in this chart. If we replace the rooks in the outfield with bishops, then we can get a different offensive and defensive dynamic.
+
+- A new game could theoretically be created by continuing to make abstract connections between baseball and chess along these patterns.
+
+- The difference between outfield and infield is a good place to create two separate zones in the new game. These zones may either be connected closely or have a vast space between them.
+
+_____
+
 OnBaseDLC started as a concept to become a league leading concept for advancing your baseball game franchise that will give you the advantage against your online division rivals with base rounding features enabling you to maintain a championship contender franchise OPS+
