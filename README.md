@@ -24,6 +24,8 @@ then we can see that automatically the outfield defense is not part of the prima
 
 - The difference between outfield and infield is a good place to create two separate zones in the new game. These zones may either be connected closely or have a vast space between them.
 
+- Offensive and defensive play could possibly be separated into two different playing spaces as well, especially when we use baseball statistics to explain how one defense can field several different offenses.
+- 
 _____
 
 OnBaseDLC started as a concept to become a league leading concept for advancing your baseball game franchise that will give you the advantage against your online division rivals with base rounding features enabling you to maintain a championship contender franchise OPS+
