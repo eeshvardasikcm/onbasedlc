@@ -14,7 +14,7 @@ not be sufficient to conclude on acquiring an offensive outfield as the primary 
 signing new players. If we start by acquiring ground ball pitchers and good defensive infielders,
 then we can see that automatically the outfield defense is not part of the primary equation.
 
-![Screenshot_20230718-034951~7](https://github.com/eeshvardasikcm/onbasedlc/assets/96601374/b2d9d12c-10fc-45c0-88a8-b7a33619c702)
+![Screenshot_20230718-034951~10](https://github.com/eeshvardasikcm/onbasedlc/assets/96601374/2e23096a-d0da-422a-9f71-33a530c415cd)
 
 - The concept of this new game is a combination of chess and baseball. If you notice the difference between balls hit into play in the infield as opposed to the outfield, you will see that there is a difference in the amount of time it takes for the ball to be fielded. A ball hit into the outfield takes more time to field than a ball hit into the infield. Also, the ball travels a greater distance when hit to the outfield.
 
