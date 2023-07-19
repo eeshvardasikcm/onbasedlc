@@ -26,7 +26,7 @@ then we can see that automatically the outfield defense is not part of the prima
 
 - Offensive and defensive play could possibly be separated into two different playing spaces as well, especially when we use baseball statistics to explain how one defense can field several different offenses.
 
-- Chess championship finals scores look similar to innings of a baseball game, especially since MLB put the automatc runner on second during covid negotiations. It is now extremely rare for baseball games to extend beyond a thirtenth inning. This fact should act as a container to prevent spaces and zones possibilities from expanding beyond enjoyable, meaningful, and exciting play.
+- Chess championship finals scores look similar to innings of a baseball game, especially since MLB put the automatc runner on second during covid negotiations. It is now extremely rare for baseball games to extend beyond a thirteenth inning. This fact should act as a container to prevent spaces and zones possibilities from expanding beyond enjoyable, meaningful, and exciting play.
   
 _____
 
